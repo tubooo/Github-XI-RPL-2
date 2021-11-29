@@ -1,8 +1,12 @@
-Nama    : Gilang Fadil Syabani
-Kelas   : XI RPL 2
-Alamat  : Jalan Pasar Sayati Lama
-Umur    : 17 Tahun
-Sekolah : Smk Assalaam Bandung
+Nama              : Gilang Fadil Syabani
+Kelas             : XI RPL 2
+Alamat            : Jalan Pasar Sayati Lama
+Tempat, Tgl Lahir : Bandung, 13 Oktober 2004
+Umur              : 17 Tahun
+Sekolah           : Smk Assalaam Bandung
+Agama             : Islam
+Hobi              : Olahraga
+Cita Cita         : Bismillah Jadi Presiden
 
 NOTE : SAYA SEDANG BELAJAR AWALAN GITHUB
 
